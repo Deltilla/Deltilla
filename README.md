@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la program
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante en **42 Madrid**
+- 🎓 Estudiante en **42 Málaga**
 - 💻 Mejorando mis habilidades de programación cada día
 - 🌱 Actualmente aprendiendo y desarrollando proyectos
 
