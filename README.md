@@ -1,13 +1,19 @@
-<h1 align="center">
-    <img src=".github/banner<-github.jpg" alt="Profile banner"/>
-</h1>
-
+<table>
+<tr>
+<td width="50%">
+<img src=".github/banner_github.jpg" alt="Profile banner"/>
+</td>
+<td width="50%">
 
 # Hello! 👋 I'm Deltilla
 
 [Leer en español 🇪🇸↓](#¡hola-👋-soy-deltilla)
 
 Welcome to my GitHub profile. I'm a developer passionate about programming and continuous learning.
+
+</td>
+</tr>
+</table>
 
 ## 🚀 About Me
 
