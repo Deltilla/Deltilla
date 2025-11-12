@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Deltilla
 
-<!--
-**Deltilla/Deltilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la programación y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante en **42 Madrid**
+- 💻 Mejorando mis habilidades de programación cada día
+- 🌱 Actualmente aprendiendo y desarrollando proyectos
+
+## 📚 Proyectos destacados
+
+- **[42cursus](https://github.com/Deltilla/42cursus)** - Mi repositorio con los proyectos y ejercicios del cursus de 42
+
+## 💡 Intereses
+
+- Desarrollo de software
+- Algoritmos y estructuras de datos
+- Programación en C y otros lenguajes
+
+---
+
+⭐️ No dudes en explorar mis repositorios y conectar conmigo!
