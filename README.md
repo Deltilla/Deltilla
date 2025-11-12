@@ -1,19 +1,10 @@
-<table>
-<tr>
-<td width="50%">
-<img src=".github/banner_github.jpg" alt="Profile banner"/>
-</td>
-<td width="50%">
+<img src=".github/github_banner.jpg" alt="Profile banner" width="970" height="250"/>
 
 # Hello! 👋 I'm Deltilla
 
-[Leer en español 🇪🇸↓](#¡hola-👋-soy-deltilla)
+[Leer en español 🇪🇸↓](#hola--soy-deltilla)
 
 Welcome to my GitHub profile. I'm a developer passionate about programming and continuous learning.
-
-</td>
-</tr>
-</table>
 
 ## 🚀 About Me
 
@@ -34,13 +25,13 @@ Welcome to my GitHub profile. I'm a developer passionate about programming and c
 ---
 
 ⭐️ I hope you find something useful in my repositories!
-[Leer en español 🇪🇸↓](#¡hola-👋-soy-deltilla)
+[Leer en español 🇪🇸↓](#hola--soy-deltilla)
 
 ---
 
 # ¡Hola! 👋 Soy Deltilla
 
-[Read in English 🇬🇧↑](#hello-👋-im-deltilla)
+[Read in English 🇬🇧↑](#hello--im-deltilla)
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la programación y el aprendizaje continuo.
 
@@ -63,4 +54,4 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la program
 ---
 
 ⭐️ ¡Espero que puedas encontrar algo útil para ti en mis repositorios!
-[Read in English 🇬🇧↑](#hello-👋-im-deltilla)
+[Read in English 🇬🇧↑](#hello--im-deltilla)
