@@ -1,4 +1,6 @@
-<img src=".github/github_banner.jpg" alt="Profile banner" width="970" height="250"/>
+<h1 align="center">
+  <img src=".github/github_banner.jpg" alt="Profile banner" width="970" height="900"/>
+</h1>
 
 # Hello! 👋 I'm Deltilla
 
